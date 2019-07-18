@@ -1,5 +1,7 @@
 # NSIDC-Data-Access-Notebook
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nsidc/NSIDC-Data-Access-Notebook/master?urlpath=lab/tree/notebooks)
+
 A Jupyter notebook exploring data coverage, size, and customization service availability along with direct data download utilizing the NSIDC DAAC's access and service API.  
 
 This notebook was originally developed for the April 2019 USFS – NASA Joint Applications Workshop.
