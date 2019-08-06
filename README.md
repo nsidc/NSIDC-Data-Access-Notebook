@@ -81,11 +81,15 @@ The initialization will take some time and will require 5.6 GB of space. Once th
 3. Unzip the file,  and open a terminal in the folder's location.
 
 4. From the terminal install the required environment with the following command:
-   `conda env create -f binder/environment.yml`
+
+   ```conda env create -f binder/environment.yml```
+
     you should now see that the dependencies were installed and our environment is ready to be used.
 
-5. Activate the environment with `source activate icepick` or `conda activate icepick`
+5. Activate the environment with ```source activate icepick``` or ```conda activate icepick```
 
-6. Launch the notebook locally with the following command
-    `jupyter notebook --allow-root --notebook-dir=./notebooks  --ip='0.0.0.0' --port=8888`
-    This should open a browser where you need to put the token string as the password if asked.
+6. Launch the notebook locally with the following command:
+
+    ```jupyter notebook --allow-root --notebook-dir=./notebooks  --ip='0.0.0.0' --port=8888```
+
+This should open a browser where you need to put the token string as the password if asked.
