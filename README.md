@@ -1,6 +1,6 @@
 # NSIDC-Data-Access-Notebook
 
-A Jupyter notebook exploring data coverage, size, and customization service availability along with direct data download utilizing the NSIDC DAAC's Data Access and Service API. If you are new to Jupyter Notebooks, you can read the [documentation](https://jupyter-notebook.readthedocs.io/en/stable/index.html), or you can walk through the user interface tour once you have loaded the notebook by selecting `Help` -> `User Interface Tour` in the menubar. 
+A Jupyter notebook exploring data coverage, size, and customization service availability along with direct data download utilizing the NSIDC DAAC's Data Access and Service API. If you are new to Jupyter Notebooks, you can read the [documentation](https://jupyter-notebook.readthedocs.io/en/stable/index.html), or you can walk through the user interface tour once you have loaded the notebook by selecting Help -> User Interface Tour in the menubar. 
 
 This notebook was originally developed for the April 2019 USFS – NASA Joint Applications Workshop.
 
