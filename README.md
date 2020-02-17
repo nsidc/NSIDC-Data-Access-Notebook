@@ -29,7 +29,7 @@ The Binder button above allows you to explore and run the notebook in a shared c
 
 6. Launch the notebook locally with the following command:
 
-    ```jupyter notebook```
+    ```jupyter lab```
 
 This should open a browser window displaying your current working directory contents. Navigate to the `notebooks` folder and click on the `NSIDC DAAC Customize and Access Data Tutorial.ipynb` file. You can now interact with the notebook to explore and access data.
 
