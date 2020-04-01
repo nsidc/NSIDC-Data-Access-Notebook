@@ -31,7 +31,7 @@ The Binder button above allows you to explore and run the notebook in a shared c
 
     ```jupyter lab```
 
-This should open a browser window displaying your current working directory contents. Navigate to the `notebooks` folder and click on the `NSIDC DAAC Customize and Access Data Tutorial.ipynb` file. You can now interact with the notebook to explore and access data.
+This should open a browser window displaying your current working directory contents. Navigate to the `notebooks` folder and click on the `Customize and Access NSIDC Data.ipynb` file. You can now interact with the notebook to explore and access data.
 
 
 # Usage with Docker
@@ -65,7 +65,7 @@ The initialization will take some time and will require 5.6 GB of space. Once th
 
 `localhost:8888/?token=2d72e03269b59636d9e31937fcb324f5bdfd0c645a6eba3f`
 
-7. You will be brought to the Jupyter Lab interface running through the Docker container. The left side of the interface displays your local directory structure. Navigate to the `notebooks` folder of the `NSIDC-Data-Access-Notebook` repository folder and click on the `NSIDC DAAC Customize and Access Data Tutorial.ipynb` file. You can now interact with the notebook to explore and access data.
+7. You will be brought to the Jupyter Lab interface running through the Docker container. The left side of the interface displays your local directory structure. Navigate to the `notebooks` folder of the `NSIDC-Data-Access-Notebook` repository folder and click on the `Customize and Access NSIDC Data.ipynb` file. You can now interact with the notebook to explore and access data.
 
 
 ## On Windows
