@@ -86,12 +86,27 @@ Example:
 
 The initialization will take some time and will require 5.6 GB of space. Once the startup is complete you will see a line of output similar to this:
 
-```http://(6a8bfa6a8518 or 127.0.0.1):8888/?token=2d72e03269b59636d9e31937fcb324f5bdfd0c645a6eba3f```
+```
+To access the notebook, open this file in a browser:
+        file:///home/jovyan/.local/share/jupyter/runtime/nbserver-6-open.html
+    Or copy and paste one of these URLs:
+        http://(6a8bfa6a8518 or 127.0.0.1):8888/?token=2d72e03269b59636d9e31937fcb324f5bdfd0c645a6eba3f
+```
 
-6. Copy everything from the :8888 to the end. Open up a web browser and in the address field type localhost, paste the copied text, and hit return. The address should look something like this:
+6. Follow the instructions and copy one of the URLs into a web browser and hit return. The address should look something like this:
 
-`localhost:8888/?token=2d72e03269b59636d9e31937fcb324f5bdfd0c645a6eba3f`
+`http://127.0.0.1:8888/?token=2d72e03269b59636d9e31937fcb324f5bdfd0c645a6eba3f`
 
-7. You will be brought to the Jupyter notebook running through the Docker container. You can now interact with the notebook to explore and access data.
+7. You will now see the NSIDC-Data-Access-Notebook repository within the Jupyter Notebook interface. Navigate to /notebooks/Customize and Access NSIDC Data.ipynb to open the notebook. 
+
+8. After opening the notebook, add the following lines to the first Import Packages code block to install geopandas manually: 
+
+```
+import sys
+!{sys.executable} -m pip install geopandas
+import geopandas as gpd
+```
+
+9. You can now interact with the notebook to explore and access data.
 
 
