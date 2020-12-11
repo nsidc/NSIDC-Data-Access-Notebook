@@ -6,7 +6,7 @@ This notebook was originally developed for the April 2019 USFS – NASA Joint Ap
 
 # Usage with Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nsidc/NSIDC-Data-Access-Notebook/master?urlpath=lab/tree/notebooks)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nsidc/NSIDC-Data-Access-Notebook/HEAD)
 
 The Binder button above allows you to explore and run the notebook in a shared cloud computing environment without the need to install dependencies on your local machine. Note that this option will not directly download data to your computer; instead the data will be downloaded to the cloud environment. If you are interested in bulk downloading data, we recommend running this notebook locally using the Conda or Docker options.
 
