@@ -1,0 +1,10 @@
+name: nsidc-customize-access
+channels:
+- conda-forge
+dependencies:
+- python
+
+- jupyterlab
+- ipywidgets
+- requests
+- earthaccess
