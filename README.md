@@ -2,7 +2,7 @@
 
 **Warning: The data access method presented in this notebook works only for data sets on NSIDC DAAC’s on premises servers.**
 
-The NSIDC DAAC is in the process of [migrating data to the NASA Earthdata Cloud](https://nsidc.org/data/user-resources/help-center/faqs-about-nsidc-daacs-earthdata-cloud-migration).  Data will continue to be available from our legacy archive on our on-premise servers for a certain period of time, but will begin to be removed in June 2025.  We recommend adapting your workflow to access your data set of interest from the Earthdata Cloud archive as soon as possible.
+The NSIDC DAAC is in the process of [migrating data to the NASA Earthdata Cloud](https://nsidc.org/data/user-resources/help-center/faqs-about-nsidc-daacs-earthdata-cloud-migration).  Data will continue to be available from our legacy archive on our on-premises servers for a certain period of time, but will begin to be removed in June 2025.  We recommend adapting your workflow to access your data set of interest from the Earthdata Cloud archive as soon as possible.
 
 Please refer to this page for the removal timeline: https://nsidc.org/data/user-resources/help-center/when-will-legacy-premises-archive-be-retired
 
