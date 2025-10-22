@@ -1,6 +1,7 @@
 # Important! Please read the following before using this notebook:
 
-**Warning: The data access method presented in this notebook works only for data sets on NSIDC DAAC’s on premises servers.**
+> [!WARNING]  
+> The data access method presented in this notebook works only for data sets on NSIDC DAAC’s on premises servers.
 
 The NSIDC DAAC is in the process of [migrating data to the NASA Earthdata Cloud](https://nsidc.org/data/user-resources/help-center/faqs-about-nsidc-daacs-earthdata-cloud-migration).  Data will continue to be available from our legacy archive on our on-premises servers for a certain period of time, but will begin to be removed in June 2025.  We recommend adapting your workflow to access your data set of interest from the Earthdata Cloud archive as soon as possible.
 
@@ -10,7 +11,7 @@ If you experience errors while running this notebook, it is possible that your d
 
 NASA Harmony services are in development to provide subsetting and other customization of data archived in the Earthdata Cloud.  The pages below offer guidance on using Harmony and the Harmony API for access to cloud-hosted NASA NSIDC DAAC data:
 
-[Subsetting ICESat-2 Data Using NASA Harmony and the harmony-py library](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/tutorials/IS2_Harmony.html)
+[Subsetting ICESat-2 Data Using NASA Harmony and the harmony-py library](https://nasa-openscapes.github.io/earthdata-cloud-cookbook/tutorials/Harmony.html)
 
 [NSIDC Harmony API Quickstart Guide](https://nsidc.org/data/user-resources/help-center/harmony-api-quickstart-guide-customizing-nasa-nsidc-daac-data-earthdata-cloud)
 
