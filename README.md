@@ -1,5 +1,5 @@
 > [!WARNING]  
-> **OUT OF DATE**:  The instructions presented in this notebook were for accessing data on the NASA NSIDC DAAC’s on premises servers, which were retired after the migration of data to the NASA Earthdata Cloud.
+> **DECOMMISSIONED**:  The instructions presented in this notebook were for accessing data on the NASA NSIDC DAAC’s on premises servers, which were retired after the migration of data to the NASA Earthdata Cloud.
 
 **The APIs mentioned in this notebook are no longer functional.**
 
