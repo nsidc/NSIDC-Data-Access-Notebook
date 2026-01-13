@@ -1,7 +1,7 @@
 > [!WARNING]  
 > **DECOMMISSIONED**:  The instructions presented in this notebook were for accessing data on the NASA NSIDC DAAC’s on premises servers, which were retired after the migration of data to the NASA Earthdata Cloud.
 
-**The instructions in this workflow no longer work, because the APIs mentioned in this notebook have been decommissioned.**
+**The instructions presented below no longer work, because the APIs mentioned in this notebook have been decommissioned.**
 
 NASA Harmony services are in development to provide subsetting and other customization of data archived in the Earthdata Cloud.  The pages below offer guidance on using Harmony and the Harmony API for access to cloud-hosted NASA NSIDC DAAC data:
 
